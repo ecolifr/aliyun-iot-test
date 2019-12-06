@@ -1,0 +1,12 @@
+aliyun:
+    access_key: LTAIXOt4SlvIiaIb
+    access_secret: ISB7AVtsKlES033LlEn3iI05SFSJmX
+
+    endpoint_name: cn-shanghai
+    region_id: cn-shanghai
+    product: Iot
+    domain: iot.cn-shanghai.aliyuncs.com
+
+    product_key: a1bmHylBw0i
+    device_name: teste
+    device_secret: mIl0djlpD0zFQkRUZgVgQxYn6eLDcP8s
